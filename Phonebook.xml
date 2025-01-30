@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<subscribers>
+  <subscriber>
+    <name>Jan</name>
+    <surname>Kowalski</surname>
+    <city>Warsaw</city>
+    <phoneNumber>123456789</phoneNumber>
+  </subscriber>
+  <subscriber>
+    <name>Ala</name>
+    <surname>Lala</surname>
+    <city>Nysa</city>
+    <phoneNumber>987654321</phoneNumber>
+  </subscriber>
+  <subscriber>
+    <name>Andrzej</name>
+    <surname>Chwalenia</surname>
+    <city>Nysa</city>
+    <phoneNumber>997</phoneNumber>
+  </subscriber>
+  <subscriber>
+    <name>asda</name>
+    <surname>asd</surname>
+    <city>qqwe</city>
+    <phoneNumber>1231244</phoneNumber>
+  </subscriber>
+</subscribers>
